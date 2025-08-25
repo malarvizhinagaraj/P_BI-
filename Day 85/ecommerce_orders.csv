@@ -1,0 +1,11 @@
+OrderID,OrderDate,ProductCategory,Brand,Region,Quantity,UnitPrice,OrderStatus
+1001,2024-01-05,Electronics,Samsung,North,2,500,Delivered
+1002,2024-01-07,Fashion,Nike,East,1,80,Delivered
+1003,2024-01-08,Electronics,Apple,West,1,1200,Pending
+1004,2024-01-10,Home Appliances,LG,South,1,300,Canceled
+1005,2024-01-12,Fashion,Adidas,North,3,70,Delivered
+1006,2024-01-14,Electronics,Samsung,East,1,450,Delivered
+1007,2024-01-16,Fashion,Nike,West,2,90,Pending
+1008,2024-01-18,Home Appliances,Philips,South,1,200,Delivered
+1009,2024-01-20,Electronics,Apple,North,1,1300,Delivered
+1010,2024-01-21,Fashion,Puma,East,2,60,Delivered
